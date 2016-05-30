@@ -20,7 +20,7 @@ The plugin has the following settings which must be configured per **repository*
 
 # Adding/Editing Reviews
 Crucible reviews can be created one of two ways:  
-1. Automatically through the plugin.
-2. By hand through the Pull Request dropdown.
+1. Automatically through the plugin.  
+2. By hand through the Pull Request dropdown.  
 ![enter image description here](https://raw.githubusercontent.com/mohamicorp/crucible-review-hook/master/images/crucible-review-edit-review.png)
 
