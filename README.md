@@ -28,6 +28,6 @@ Automatically creating the reviews will fail if the pull-request author does not
 * The user is listed as a Allowed review participant in the project settings.
 ![enter image description here](https://raw.githubusercontent.com/mohamicorp/crucible-review-hook/master/images/Screenshot%20from%202016-09-14%2017-03-57.png)
 * Authors have permission to Edit Review Details in the permission schemes.
-* ![enter image description here](https://raw.githubusercontent.com/mohamicorp/crucible-review-hook/master/images/Screenshot%20from%202016-09-14%2017-00-11.png)
+![enter image description here](https://raw.githubusercontent.com/mohamicorp/crucible-review-hook/master/images/Screenshot%20from%202016-09-14%2017-00-11.png)
 
 
