@@ -24,8 +24,10 @@ Crucible reviews can be created one of two ways:
 2. By hand through the Pull Request dropdown.  
 ![enter image description here](https://raw.githubusercontent.com/mohamicorp/crucible-review-hook/master/images/crucible-review-edit-review.png)
 
-Automatically creating the reviews will fail if the pull-request author does not have the correct permissions in Crucible. Make sure to check the following permissions:
+Automatically creating the reviews will fail if the pull-request author does not have the correct permissions in Crucible. Make sure to have the Crucible administrator check the following permissions:
 * The user is listed as a Allowed review participant in the project settings.
-* Authors have permission to Edit Review Details in th permission schemes.
+![enter image description here](https://raw.githubusercontent.com/mohamicorp/crucible-review-hook/master/images/Screenshot%20from%202016-09-14%2017-03-57.png)
+* Authors have permission to Edit Review Details in the permission schemes.
+* ![enter image description here](https://raw.githubusercontent.com/mohamicorp/crucible-review-hook/master/images/Screenshot%20from%202016-09-14%2017-00-11.png)
 
 
