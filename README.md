@@ -9,7 +9,7 @@ For the plugin to work correctly, the following must be setup:
 
 You're now ready to get started!
 
-#Configuration
+# Configuration
 The plugin has the following settings which must be configured per **repository**.
 
 | Option | Description |
